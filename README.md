@@ -1,9 +1,9 @@
 🎓 Apresentação – Sistema de Cadastro de Alunos (TelaCadastro.java)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
-![Swing](https://img.shields.io/badge/Swing-UI-green?style=for-the-badge&logo=java&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-![JasperReports](https://img.shields.io/badge/JasperReports-Reporting-orange?style=for-the-badge&logo=apache&logoColor=white)  
-![NetBeans](https://img.shields.io/badge/NetBeans-IDE-blue?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)    
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-UI-green?style=for-the-badge&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JasperReports](https://img.shields.io/badge/JasperReports-Reporting-orange?style=for-the-badge&logo=apache&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-IDE-blue?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)  
 🧩 Introdução  
 O Sistema de Cadastro de Alunos, desenvolvido em Java utilizando o NetBeans e a biblioteca Swing para a interface gráfica.  
 O projeto é uma atividade foi criado durante a faculdade de Análise e Desenvolvimento de Sistemas (ADS), e posteriormente aprimorado com novos recursos para torná-lo mais completo e profissional.  
